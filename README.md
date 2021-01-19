@@ -36,22 +36,17 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/daudi13/404-not-found-master/blob/main/Screenshot%20from%202021-01-19%2016-33-49.png)
 
-checkout this project at [vercel]()
+checkout this project at [vercel](https://404-not-found-ma.vercel.app/)
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- HTML
+- CSS
 
 ## Features
 
